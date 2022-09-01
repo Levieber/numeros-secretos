@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/104157600/187782304-9cc1cca4-75bf-4d02-b179-a83c54f0e0bd.png" />
 </p>
 <p align="center">
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
   <img height="30" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/>
 </p>
 
